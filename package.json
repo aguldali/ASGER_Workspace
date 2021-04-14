@@ -12,8 +12,8 @@
   ],
     "samples": [
     {
-      "displayName": "Sample 1",
-      "description": "Description for sample 1.",
+      "displayName": "ColorPicker",
+      "description": "4 buttons that change color of main cube with ScriptableObjects",
       "path": "Samples/ColorSelectPanel"
     }
   ]
