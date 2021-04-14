@@ -1,6 +1,6 @@
 {
   "name": "com.asger.com.asger.core.modules.localization",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "ASGER_Modules_Localization",
   "description": "This package contains color change related scripts and prefabs that has used for ASGER Workspaces.",
   "unity": "2020.3",
@@ -14,12 +14,7 @@
     {
       "displayName": "Sample 1",
       "description": "Description for sample 1.",
-      "path": "Samples/sample-folder-1"
-    },
-    {
-      "displayName": "Sample 2",
-      "description": "Description for sample 2.",
-      "path": "Samples/sample-folder-2"
+      "path": "Samples/ColorSelectPanel"
     }
   ]
 }
