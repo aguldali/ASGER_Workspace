@@ -10,17 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e7e7db9a2688ed540af9819c456ba2e2, type: 3}
-  m_Name: ExampleHubBackPlateTheme
+  m_Name: ColorButtonTheme 3
   m_EditorClassIdentifier: 
   definitions:
   - ClassName: InteractableColorTheme
     AssemblyQualifiedName: Microsoft.MixedReality.Toolkit.UI.InteractableColorTheme,
-      Microsoft.MixedReality.Toolkit.SDK
+      Microsoft.MixedReality.Toolkit.SDK, Version=2.6.1.0, Culture=neutral, PublicKeyToken=null
     stateProperties:
     - name: Color
       type: 2
       values:
-      - Name: Default
+      - Name: 
         String: 
         Bool: 0
         Int: 0
@@ -32,11 +32,11 @@ MonoBehaviour:
         Vector2: {x: 0, y: 0}
         Vector3: {x: 0, y: 0, z: 0}
         Vector4: {x: 0, y: 0, z: 0, w: 0}
-        Color: {r: 0, g: 0, b: 0, a: 1}
+        Color: {r: 0.043137256, g: 0.79215693, b: 1, a: 1}
         Quaternion: {x: 0, y: 0, z: 0, w: 0}
         AudioClip: {fileID: 0}
         Animation: {fileID: 0}
-      - Name: Focus
+      - Name: 
         String: 
         Bool: 0
         Int: 0
@@ -48,11 +48,11 @@ MonoBehaviour:
         Vector2: {x: 0, y: 0}
         Vector3: {x: 0, y: 0, z: 0}
         Vector4: {x: 0, y: 0, z: 0, w: 0}
-        Color: {r: 0.43229774, g: 0.20314167, b: 0.5188679, a: 1}
+        Color: {r: 1, g: 0.5803922, b: 0, a: 1}
         Quaternion: {x: 0, y: 0, z: 0, w: 0}
         AudioClip: {fileID: 0}
         Animation: {fileID: 0}
-      - Name: Pressed
+      - Name: 
         String: 
         Bool: 0
         Int: 0
@@ -64,11 +64,11 @@ MonoBehaviour:
         Vector2: {x: 0, y: 0}
         Vector3: {x: 0, y: 0, z: 0}
         Vector4: {x: 0, y: 0, z: 0, w: 0}
-        Color: {r: 0.5871773, g: 0.1990477, b: 0.6698113, a: 1}
+        Color: {r: 1, g: 0.7882168, b: 0.495283, a: 1}
         Quaternion: {x: 0, y: 0, z: 0, w: 0}
         AudioClip: {fileID: 0}
         Animation: {fileID: 0}
-      - Name: PhysicalTouch
+      - Name: 
         String: 
         Bool: 0
         Int: 0
@@ -80,11 +80,11 @@ MonoBehaviour:
         Vector2: {x: 0, y: 0}
         Vector3: {x: 0, y: 0, z: 0}
         Vector4: {x: 0, y: 0, z: 0, w: 0}
-        Color: {r: 0.58274055, g: 0.17377181, b: 0.6698113, a: 1}
+        Color: {r: 0.4528302, g: 0.3823425, b: 0.3823425, a: 1}
         Quaternion: {x: 0, y: 0, z: 0, w: 0}
         AudioClip: {fileID: 0}
         Animation: {fileID: 0}
-      - Name: Grab
+      - Name: 
         String: 
         Bool: 0
         Int: 0
@@ -96,39 +96,7 @@ MonoBehaviour:
         Vector2: {x: 0, y: 0}
         Vector3: {x: 0, y: 0, z: 0}
         Vector4: {x: 0, y: 0, z: 0, w: 0}
-        Color: {r: 0.44484478, g: 0.18160376, b: 0.5, a: 1}
-        Quaternion: {x: 0, y: 0, z: 0, w: 0}
-        AudioClip: {fileID: 0}
-        Animation: {fileID: 0}
-      - Name: Gesture
-        String: 
-        Bool: 0
-        Int: 0
-        Float: 0
-        Texture: {fileID: 0}
-        Material: {fileID: 0}
-        Shader: {fileID: 0}
-        GameObject: {fileID: 0}
-        Vector2: {x: 0, y: 0}
-        Vector3: {x: 0, y: 0, z: 0}
-        Vector4: {x: 0, y: 0, z: 0, w: 0}
-        Color: {r: 0, g: 0, b: 0, a: 1}
-        Quaternion: {x: 0, y: 0, z: 0, w: 0}
-        AudioClip: {fileID: 0}
-        Animation: {fileID: 0}
-      - Name: Disabled
-        String: 
-        Bool: 0
-        Int: 0
-        Float: 0
-        Texture: {fileID: 0}
-        Material: {fileID: 0}
-        Shader: {fileID: 0}
-        GameObject: {fileID: 0}
-        Vector2: {x: 0, y: 0}
-        Vector3: {x: 0, y: 0, z: 0}
-        Vector4: {x: 0, y: 0, z: 0, w: 0}
-        Color: {r: 0, g: 0, b: 0, a: 1}
+        Color: {r: 1, g: 1, b: 1, a: 1}
         Quaternion: {x: 0, y: 0, z: 0, w: 0}
         AudioClip: {fileID: 0}
         Animation: {fileID: 0}
@@ -162,67 +130,19 @@ MonoBehaviour:
         Vector2: {x: 0, y: 0}
         Vector3: {x: 0, y: 0, z: 0}
         Vector4: {x: 0, y: 0, z: 0, w: 0}
-        Color: {r: 0, g: 0, b: 0, a: 0}
+        Color: {r: 1, g: 1, b: 1, a: 1}
         Quaternion: {x: 0, y: 0, z: 0, w: 0}
         AudioClip: {fileID: 0}
         Animation: {fileID: 0}
       targetShader: {fileID: 4800000, guid: 5bdea20278144b11916d77503ba1467a, type: 3}
       shaderPropertyName: _Color
-      PropId: 0
-      ShaderOptions:
-      - Name: _Color
-        Type: 0
-        Range: {x: 1, y: 1}
-      - Name: _EmissiveColor
-        Type: 0
-        Range: {x: 0, y: 0}
-      - Name: _RimColor
-        Type: 0
-        Range: {x: 0.5, y: 0.5}
-      - Name: _ClippingBorderColor
-        Type: 0
-        Range: {x: 0.2, y: 0}
-      - Name: _HoverColorOverride
-        Type: 0
-        Range: {x: 1, y: 1}
-      - Name: _ProximityLightCenterColorOverride
-        Type: 0
-        Range: {x: 0, y: 0}
-      - Name: _ProximityLightMiddleColorOverride
-        Type: 0
-        Range: {x: 1, y: 0}
-      - Name: _ProximityLightOuterColorOverride
-        Type: 0
-        Range: {x: 0, y: 1}
-      - Name: _InnerGlowColor
-        Type: 0
-        Range: {x: 1, y: 1}
-      - Name: _EnvironmentColorX
-        Type: 0
-        Range: {x: 0, y: 0}
-      - Name: _EnvironmentColorY
-        Type: 0
-        Range: {x: 1, y: 0}
-      - Name: _EnvironmentColorZ
-        Type: 0
-        Range: {x: 0, y: 1}
-      ShaderOptionNames:
-      - _Color
-      - _EmissiveColor
-      - _RimColor
-      - _ClippingBorderColor
-      - _HoverColorOverride
-      - _ProximityLightCenterColorOverride
-      - _ProximityLightMiddleColorOverride
-      - _ProximityLightOuterColorOverride
-      - _InnerGlowColor
-      - _EnvironmentColorX
-      - _EnvironmentColorY
-      - _EnvironmentColorZ
-      ShaderName: Mixed Reality Toolkit/Standard
+      PropId: -1
+      ShaderOptions: []
+      ShaderOptionNames: []
+      ShaderName: 
     customProperties: []
     easing:
-      Enabled: 1
+      Enabled: 0
       Curve:
         serializedVersion: 2
         m_Curve:
@@ -248,4 +168,4 @@ MonoBehaviour:
         m_PostInfinity: 2
         m_RotationOrder: 4
       LerpTime: 0.5
-  states: {fileID: 11400000, guid: e51893c8eb7938e4ba43985af43c0f72, type: 2}
+  states: {fileID: 11400000, guid: 5eac1712038236e4b8ffdb3893804fe1, type: 2}
