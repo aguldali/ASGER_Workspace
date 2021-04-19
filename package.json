@@ -9,12 +9,5 @@
     "asger",
     "localization",
     "color"
-  ],
-    "samples": [
-    {
-      "displayName": "ColorPicker",
-      "description": "4 buttons that change color of main cube with ScriptableObjects",
-      "path": "Samples/ColorPickerDemo"
-    }
   ]
 }
