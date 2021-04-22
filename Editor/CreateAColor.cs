@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEditor;
 using MixedRealityWorkspace1.ColorSystem;
 
-public class CreateAColor : MonoBehaviour
+public class CreateAColor
 {
     [MenuItem("ASGER/Localization/Color")]
     public static void CreateAColorScriptableObject()
