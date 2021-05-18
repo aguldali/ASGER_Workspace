@@ -1,5 +1,5 @@
 {
-  "name": "com.asger.com.asger.core.modules.localization",
+  "name": "com.asger.core.modules.localization",
   "version": "1.0.1",
   "displayName": "ASGER_Modules_Localization",
   "description": "This package contains color change related scripts and prefabs that has used for ASGER Workspaces.",

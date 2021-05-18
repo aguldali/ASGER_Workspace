@@ -5,16 +5,16 @@ using MixedRealityWorkspace1.ColorSystem;
 
     public class ObjectColorController : MonoBehaviour
     {
-        Material _objectMaterial;
+        Material objectMaterial;
 
         private void Start()
         {
-            _objectMaterial = GetComponent<MeshRenderer>().material;
+            objectMaterial = GetComponent<MeshRenderer>().material;
         }
 
         public void ChangeColor(ColorKeeper objectColor)
         {
-            _objectMaterial.color = objectColor.MyColor;
+            objectMaterial.color = objectColor.MyColor;
         }
 
     }
